@@ -1,0 +1,17 @@
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\Learning\LearningC#\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+E:\Learning\LearningC#\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+E:\Learning\LearningC#\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+E:\Learning\LearningC#\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+E:\Learning\LearningC#\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
+E:\Learning\LearningC#\ConsoleApp3\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Learning\LearningC#\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CopyComplete
