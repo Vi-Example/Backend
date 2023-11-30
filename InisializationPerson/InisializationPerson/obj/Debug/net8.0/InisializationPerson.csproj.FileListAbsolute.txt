@@ -1,0 +1,14 @@
+D:\Проекты C#\InisializationPerson\InisializationPerson\bin\Debug\net8.0\InisializationPerson.exe
+D:\Проекты C#\InisializationPerson\InisializationPerson\bin\Debug\net8.0\InisializationPerson.deps.json
+D:\Проекты C#\InisializationPerson\InisializationPerson\bin\Debug\net8.0\InisializationPerson.runtimeconfig.json
+D:\Проекты C#\InisializationPerson\InisializationPerson\bin\Debug\net8.0\InisializationPerson.dll
+D:\Проекты C#\InisializationPerson\InisializationPerson\bin\Debug\net8.0\InisializationPerson.pdb
+D:\Проекты C#\InisializationPerson\InisializationPerson\obj\Debug\net8.0\InisializationPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты C#\InisializationPerson\InisializationPerson\obj\Debug\net8.0\InisializationPerson.AssemblyInfoInputs.cache
+D:\Проекты C#\InisializationPerson\InisializationPerson\obj\Debug\net8.0\InisializationPerson.AssemblyInfo.cs
+D:\Проекты C#\InisializationPerson\InisializationPerson\obj\Debug\net8.0\InisializationPerson.csproj.CoreCompileInputs.cache
+D:\Проекты C#\InisializationPerson\InisializationPerson\obj\Debug\net8.0\InisializationPerson.dll
+D:\Проекты C#\InisializationPerson\InisializationPerson\obj\Debug\net8.0\refint\InisializationPerson.dll
+D:\Проекты C#\InisializationPerson\InisializationPerson\obj\Debug\net8.0\InisializationPerson.pdb
+D:\Проекты C#\InisializationPerson\InisializationPerson\obj\Debug\net8.0\InisializationPerson.genruntimeconfig.cache
+D:\Проекты C#\InisializationPerson\InisializationPerson\obj\Debug\net8.0\ref\InisializationPerson.dll
